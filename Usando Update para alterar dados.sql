@@ -1,0 +1,1 @@
+update tb_funcionariosempresa set salários = 1900 where id = 4;

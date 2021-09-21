@@ -1,0 +1,1 @@
+select * from tb_funcionariosempresa where id >= 4
